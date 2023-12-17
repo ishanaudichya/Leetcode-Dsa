@@ -30,7 +30,6 @@ misc.cpp
 *.exe
 # vercel
 .vercel
-
 # typescript
 *.tsbuildinfo
 next-env.d.ts
