@@ -1,33 +1,25 @@
-class Solution {
-public:
 
-
-    //  int trap(vector<int>& height) {
-    //     int n = height.size();
-    //     int left = 0, right = n-1, rightm = 0, leftm=0, res = 0;
-    //     while(left<=right){
-    //         leftm = max(height[left], leftm);
-    //         rightm = max(height[right], rightm);
-    //         res += (leftm<rightm)? leftm-height[left++] : rightm-height[right--];
-    //     }
-    //     return res;
-    // }
-
-    int trap(vector<int>& height) {
-        int n = height.size();
-        int left = 0, right = n-1, rightm = 0, leftm=0, res = 0;
-        while(left<=right){
-            if(height[left]<=height[right]) {
-                if (height[left]>=leftm) leftm = height[left];
-                else res += leftm - height[left];
-                left++;
-            }
-            else{
-                if(height[right]>=rightm) rightm = height[right];
-                else res+= rightm - height[right];
-                right--;
-            }
-        }
-        return res;
+#include <iostream>
+using namespace std;
+string encrypt(string text, int s)
+{
+    string result = "";
+    for (int i = 0; i < text.length(); i++)
+    {
+        if (isupper(text[i]))
+            result += char(int(text[i] + s - 65) % 26 + 65);
+        else
+            result += char(int(text[i] + s - 97) % 26 + 97);
     }
-};
+    return result;
+}
+int main()
+{
+    cout << "21BCE2818" << endl;
+    string text = "ATTACKATONCE";
+    int s = 4;
+    cout << "Text : " << text;
+    cout << "\nShift: " << s;
+    cout << "\nCipher: " << encrypt(text, s);
+    return 0;
+}
