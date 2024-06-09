@@ -6,6 +6,7 @@ Github repo for all the leetcode ques that i solved.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0189-rotate-array) |
 # String
 |  |
 | ------- |
@@ -14,6 +15,7 @@ Github repo for all the leetcode ques that i solved.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1013-fibonacci-number) |
 # Dynamic Programming
 |  |
@@ -30,4 +32,5 @@ Github repo for all the leetcode ques that i solved.
 # Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0189-rotate-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
