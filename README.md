@@ -27,3 +27,7 @@ Github repo for all the leetcode ques that i solved.
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1013-fibonacci-number) |
+# Array
+|  |
+| ------- |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
