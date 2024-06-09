@@ -56,3 +56,19 @@ Github repo for all the leetcode ques that i solved.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0268-missing-number) |
+# Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0144-binary-tree-preorder-traversal) |
+# Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0144-binary-tree-preorder-traversal) |
+# Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0144-binary-tree-preorder-traversal) |
+# Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0144-binary-tree-preorder-traversal) |
