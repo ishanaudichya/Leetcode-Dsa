@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
-        int pos = 0;
         int n = nums.size();
         vector<int> res;
         queue<int> q;
@@ -17,15 +16,11 @@ public:
             }      
         }
         while(!q.empty() || !r.empty()){
-            if(pos==0){
                 res.push_back(q.front());
-                q.pop();
-                pos++;
-            }else{
                 res.push_back(r.front());
+                q.pop();
                 r.pop();
-                pos--;
-            }
+           
         }
         return res;
     }
