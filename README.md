@@ -35,6 +35,7 @@ Github repo for all the leetcode ques that i solved.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0283-move-zeroes) |
@@ -42,6 +43,7 @@ Github repo for all the leetcode ques that i solved.
 # Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0268-missing-number) |
 # Binary Search
 |  |
@@ -55,6 +57,7 @@ Github repo for all the leetcode ques that i solved.
 # Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0268-missing-number) |
 # Stack
 |  |
@@ -93,3 +96,11 @@ Github repo for all the leetcode ques that i solved.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0169-majority-element) |
+# Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0169-majority-element) |
