@@ -9,6 +9,7 @@ Github repo for all the leetcode ques that i solved.
 | [0125-valid-palindrome](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 # String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Github repo for all the leetcode ques that i solved.
 | [0268-missing-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 # Hash Table
 |  |
 | ------- |
@@ -107,3 +109,7 @@ Github repo for all the leetcode ques that i solved.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0169-majority-element) |
+# Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2271-rearrange-array-elements-by-sign) |
