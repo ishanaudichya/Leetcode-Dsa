@@ -14,6 +14,7 @@ Github repo for all the leetcode ques that i solved.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0205-isomorphic-strings) |
 # Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Github repo for all the leetcode ques that i solved.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0268-missing-number) |
 # Binary Search
