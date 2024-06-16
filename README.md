@@ -49,6 +49,7 @@ Github repo for all the leetcode ques that i solved.
 | [0229-majority-element-ii](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0283-move-zeroes) |
+| [0792-binary-search](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 # Hash Table
@@ -62,6 +63,7 @@ Github repo for all the leetcode ques that i solved.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0792-binary-search) |
 # Bit Manipulation
 |  |
 | ------- |
