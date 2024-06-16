@@ -41,6 +41,7 @@ Github repo for all the leetcode ques that i solved.
 | ------- |
 | [0048-rotate-image](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0169-majority-element) |
@@ -123,8 +124,10 @@ Github repo for all the leetcode ques that i solved.
 # Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 # Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0054-spiral-matrix) |
