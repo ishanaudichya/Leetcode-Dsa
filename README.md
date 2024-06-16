@@ -26,6 +26,7 @@ Github repo for all the leetcode ques that i solved.
 # Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1013-fibonacci-number) |
 # Recursion
 |  |
@@ -39,6 +40,7 @@ Github repo for all the leetcode ques that i solved.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0169-majority-element) |
@@ -111,6 +113,7 @@ Github repo for all the leetcode ques that i solved.
 # Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0169-majority-element) |
 # Counting
 |  |
