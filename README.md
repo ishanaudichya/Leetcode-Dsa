@@ -16,6 +16,7 @@ Github repo for all the leetcode ques that i solved.
 | [0008-string-to-integer-atoi](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0205-isomorphic-strings) |
+| [1078-remove-outermost-parentheses](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1078-remove-outermost-parentheses) |
 # Math
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Github repo for all the leetcode ques that i solved.
 | [0094-binary-tree-inorder-traversal](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1078-remove-outermost-parentheses) |
 # Tree
 |  |
 | ------- |
