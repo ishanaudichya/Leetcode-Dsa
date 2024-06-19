@@ -19,6 +19,7 @@ Github repo for all the leetcode ques that i solved.
 | [0151-reverse-words-in-a-string](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2032-largest-odd-number-in-string) |
 # Math
 |  |
 | ------- |
@@ -27,6 +28,7 @@ Github repo for all the leetcode ques that i solved.
 | [0189-rotate-array](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2032-largest-odd-number-in-string) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -140,3 +142,7 @@ Github repo for all the leetcode ques that i solved.
 | ------- |
 | [0048-rotate-image](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0054-spiral-matrix) |
+# Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2032-largest-odd-number-in-string) |
