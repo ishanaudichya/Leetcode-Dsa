@@ -7,6 +7,7 @@ Github repo for all the leetcode ques that i solved.
 | ------- |
 | [0075-sort-colors](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -15,6 +16,7 @@ Github repo for all the leetcode ques that i solved.
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1078-remove-outermost-parentheses) |
 # Math
