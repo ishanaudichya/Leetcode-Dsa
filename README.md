@@ -43,6 +43,7 @@ Github repo for all the leetcode ques that i solved.
 | [0048-rotate-image](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0169-majority-element) |
@@ -73,6 +74,7 @@ Github repo for all the leetcode ques that i solved.
 # Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0229-majority-element-ii) |
