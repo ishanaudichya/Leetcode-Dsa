@@ -50,6 +50,7 @@ Github repo for all the leetcode ques that i solved.
 | [0054-spiral-matrix](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0189-rotate-array) |
@@ -70,6 +71,7 @@ Github repo for all the leetcode ques that i solved.
 # Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0792-binary-search) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1675-magnetic-force-between-two-balls) |
