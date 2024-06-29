@@ -151,3 +151,22 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2032-largest-odd-number-in-string) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0547-number-of-provinces) |
+<!---LeetCode Topics End-->
