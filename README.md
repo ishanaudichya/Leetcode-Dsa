@@ -161,6 +161,7 @@ Github repo for all the leetcode questions that i solved.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0127-word-ladder) |
 | [0547-number-of-provinces](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1036-rotting-oranges) |
@@ -191,4 +192,12 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0090-subsets-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0127-word-ladder) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
