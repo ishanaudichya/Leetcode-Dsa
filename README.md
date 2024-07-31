@@ -203,6 +203,7 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0127-word-ladder) |
+| [1250-longest-common-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1250-longest-common-subsequence) |
 ## Tree
 |  |
 | ------- |
@@ -219,4 +220,5 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0300-longest-increasing-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
