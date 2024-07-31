@@ -156,11 +156,13 @@ Github repo for all the leetcode questions that i solved.
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0101-symmetric-tree) |
 | [0547-number-of-provinces](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0101-symmetric-tree) |
 | [0127-word-ladder](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0127-word-ladder) |
 | [0547-number-of-provinces](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0733-flood-fill) |
@@ -200,4 +202,12 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0127-word-ladder) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
