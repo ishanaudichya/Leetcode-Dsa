@@ -179,6 +179,7 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0090-subsets-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1036-rotting-oranges) |
 ## Matrix
@@ -210,4 +211,12 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0101-symmetric-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0300-longest-increasing-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
