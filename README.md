@@ -231,8 +231,13 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2645-pass-the-pillow](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2645-pass-the-pillow) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
