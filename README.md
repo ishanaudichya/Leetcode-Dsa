@@ -183,6 +183,7 @@ Github repo for all the leetcode questions that i solved.
 | [0300-longest-increasing-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1036-rotting-oranges) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Matrix
 |  |
 | ------- |
@@ -220,9 +221,18 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0300-longest-increasing-subsequence) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0300-longest-increasing-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1250-longest-common-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
