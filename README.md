@@ -209,6 +209,7 @@ Github repo for all the leetcode questions that i solved.
 | ------- |
 | [0127-word-ladder](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0127-word-ladder) |
 | [1250-longest-common-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1250-longest-common-subsequence) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Tree
 |  |
 | ------- |
@@ -231,6 +232,7 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2645-pass-the-pillow](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2645-pass-the-pillow) |
 ## Prefix Sum
 |  |
