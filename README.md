@@ -179,6 +179,7 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0090-subsets-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0733-flood-fill) |
@@ -194,6 +195,7 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
