@@ -195,6 +195,7 @@ Github repo for all the leetcode questions that i solved.
 | ------- |
 | [0037-sudoku-solver](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0037-sudoku-solver) |
 | [0090-subsets-ii](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -208,6 +209,7 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0131-palindrome-partitioning) |
 | [1250-longest-common-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1250-longest-common-subsequence) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Tree
@@ -226,6 +228,7 @@ Github repo for all the leetcode questions that i solved.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0300-longest-increasing-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1250-longest-common-subsequence) |
 ## Simulation
