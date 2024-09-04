@@ -183,6 +183,7 @@ Github repo for all the leetcode questions that i solved.
 | [0090-subsets-ii](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0090-subsets-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0733-flood-fill) |
+| [0906-walking-robot-simulation](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0906-walking-robot-simulation) |
 | [1036-rotting-oranges](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1036-rotting-oranges) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Matrix
@@ -208,6 +209,7 @@ Github repo for all the leetcode questions that i solved.
 | ------- |
 | [0037-sudoku-solver](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0127-word-ladder) |
+| [0906-walking-robot-simulation](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0906-walking-robot-simulation) |
 ## String
 |  |
 | ------- |
@@ -237,6 +239,7 @@ Github repo for all the leetcode questions that i solved.
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2645-pass-the-pillow](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2645-pass-the-pillow) |
