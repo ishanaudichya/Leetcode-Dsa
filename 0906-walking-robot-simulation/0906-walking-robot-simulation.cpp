@@ -25,7 +25,9 @@ public:
                         x = a;
                         y = b;
                         maxi = max(maxi, x * x + y * y);
-                    } 
+                    } else{
+                        break;
+                    }
                 }
             }
         }
