@@ -186,6 +186,7 @@ Github repo for all the leetcode questions that i solved.
 | [0906-walking-robot-simulation](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0906-walking-robot-simulation) |
 | [1036-rotting-oranges](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1036-rotting-oranges) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2155-find-missing-observations](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2155-find-missing-observations) |
 ## Matrix
 |  |
 | ------- |
@@ -242,6 +243,7 @@ Github repo for all the leetcode questions that i solved.
 | [0906-walking-robot-simulation](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2155-find-missing-observations](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2645-pass-the-pillow) |
 ## Prefix Sum
 |  |
@@ -250,5 +252,6 @@ Github repo for all the leetcode questions that i solved.
 ## Math
 |  |
 | ------- |
+| [2155-find-missing-observations](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
