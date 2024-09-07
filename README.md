@@ -218,6 +218,7 @@ Github repo for all the leetcode questions that i solved.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0131-palindrome-partitioning) |
 | [1250-longest-common-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1250-longest-common-subsequence) |
@@ -265,6 +266,7 @@ Github repo for all the leetcode questions that i solved.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
