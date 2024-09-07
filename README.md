@@ -182,6 +182,7 @@ Github repo for all the leetcode questions that i solved.
 | [0051-n-queens](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0090-subsets-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0300-longest-increasing-subsequence) |
+| [0496-next-greater-element-i](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0733-flood-fill) |
 | [0906-walking-robot-simulation](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0906-walking-robot-simulation) |
 | [1036-rotting-oranges](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1036-rotting-oranges) |
@@ -211,6 +212,7 @@ Github repo for all the leetcode questions that i solved.
 | ------- |
 | [0037-sudoku-solver](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0127-word-ladder) |
+| [0496-next-greater-element-i](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0496-next-greater-element-i) |
 | [0906-walking-robot-simulation](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0906-walking-robot-simulation) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -260,4 +262,12 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
