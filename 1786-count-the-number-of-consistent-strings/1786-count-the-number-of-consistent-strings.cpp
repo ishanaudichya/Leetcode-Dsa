@@ -11,6 +11,7 @@ public:
             for(char letter:word){
                 if(!alphabet[letter-'a']){
                     flag=false;
+                    break;
                 }
                  
             }
