@@ -186,6 +186,7 @@ Github repo for all the leetcode questions that i solved.
 | [0733-flood-fill](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0733-flood-fill) |
 | [0906-walking-robot-simulation](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0906-walking-robot-simulation) |
 | [1036-rotting-oranges](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1036-rotting-oranges) |
+| [1435-xor-queries-of-a-subarray](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2155-find-missing-observations) |
@@ -208,6 +209,7 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0090-subsets-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Hash Table
 |  |
@@ -257,6 +259,7 @@ Github repo for all the leetcode questions that i solved.
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Math
 |  |
