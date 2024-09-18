@@ -182,6 +182,7 @@ Github repo for all the leetcode questions that i solved.
 | [0051-n-queens](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0179-largest-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0733-flood-fill) |
@@ -232,6 +233,7 @@ Github repo for all the leetcode questions that i solved.
 | [0020-valid-parentheses](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0131-palindrome-partitioning) |
+| [0179-largest-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0179-largest-number) |
 | [1250-longest-common-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1250-longest-common-subsequence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -293,8 +295,13 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [0135-candy](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0179-largest-number) |
 ## Brainteaser
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
