@@ -186,6 +186,7 @@ Github repo for all the leetcode questions that i solved.
 | [0300-longest-increasing-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0733-flood-fill) |
+| [0859-design-circular-deque](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0906-walking-robot-simulation) |
 | [1036-rotting-oranges](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1036-rotting-oranges) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1435-xor-queries-of-a-subarray) |
@@ -279,6 +280,7 @@ Github repo for all the leetcode questions that i solved.
 ## Linked List
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0859-design-circular-deque) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
@@ -306,4 +308,12 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0179-largest-number) |
+## Design
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0859-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
