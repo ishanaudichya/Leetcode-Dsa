@@ -197,6 +197,7 @@ Github repo for all the leetcode questions that i solved.
 | [2155-find-missing-observations](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2155-find-missing-observations) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
@@ -308,6 +309,7 @@ Github repo for all the leetcode questions that i solved.
 | [0135-candy](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0179-largest-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Brainteaser
 |  |
 | ------- |
@@ -334,4 +336,5 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
