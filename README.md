@@ -244,6 +244,7 @@ Github repo for all the leetcode questions that i solved.
 | [1250-longest-common-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1250-longest-common-subsequence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [3195-separate-black-and-white-balls](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3195-separate-black-and-white-balls) |
 ## Tree
 |  |
 | ------- |
@@ -310,6 +311,7 @@ Github repo for all the leetcode questions that i solved.
 | [0179-largest-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0179-largest-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3195-separate-black-and-white-balls) |
 ## Brainteaser
 |  |
 | ------- |
@@ -332,6 +334,7 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3195-separate-black-and-white-balls](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
