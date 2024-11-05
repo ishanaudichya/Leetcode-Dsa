@@ -244,6 +244,7 @@ Github repo for all the leetcode questions that i solved.
 | [1250-longest-common-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1250-longest-common-subsequence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2580-circular-sentence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2580-circular-sentence) |
 | [3195-separate-black-and-white-balls](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3195-separate-black-and-white-balls) |
 ## Tree
 |  |
