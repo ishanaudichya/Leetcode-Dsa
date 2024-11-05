@@ -192,6 +192,7 @@ Github repo for all the leetcode questions that i solved.
 | [1435-xor-queries-of-a-subarray](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1755-defuse-the-bomb](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2155-find-missing-observations) |
@@ -341,4 +342,8 @@ Github repo for all the leetcode questions that i solved.
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Sliding Window
+|  |
+| ------- |
+| [1755-defuse-the-bomb](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1755-defuse-the-bomb) |
 <!---LeetCode Topics End-->
