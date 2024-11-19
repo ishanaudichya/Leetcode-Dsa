@@ -198,6 +198,7 @@ Github repo for all the leetcode questions that i solved.
 | [2155-find-missing-observations](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2155-find-missing-observations) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -233,6 +234,7 @@ Github repo for all the leetcode questions that i solved.
 | [0906-walking-robot-simulation](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0906-walking-robot-simulation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -346,4 +348,5 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1755-defuse-the-bomb) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
