@@ -189,6 +189,7 @@ Github repo for all the leetcode questions that i solved.
 | [0859-design-circular-deque](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0906-walking-robot-simulation) |
 | [1036-rotting-oranges](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1036-rotting-oranges) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -208,6 +209,7 @@ Github repo for all the leetcode questions that i solved.
 | [0037-sudoku-solver](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0037-sudoku-solver) |
 | [0733-flood-fill](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1036-rotting-oranges) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 ## Backtracking
 |  |
 | ------- |
@@ -232,6 +234,7 @@ Github repo for all the leetcode questions that i solved.
 | [0127-word-ladder](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0127-word-ladder) |
 | [0496-next-greater-element-i](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0496-next-greater-element-i) |
 | [0906-walking-robot-simulation](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0906-walking-robot-simulation) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
