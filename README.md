@@ -196,6 +196,7 @@ Github repo for all the leetcode questions that i solved.
 | [1755-defuse-the-bomb](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2089-maximum-matrix-sum](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2089-maximum-matrix-sum) |
 | [2155-find-missing-observations](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2155-find-missing-observations) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -210,6 +211,7 @@ Github repo for all the leetcode questions that i solved.
 | [0733-flood-fill](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [2089-maximum-matrix-sum](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2089-maximum-matrix-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -316,6 +318,7 @@ Github repo for all the leetcode questions that i solved.
 | ------- |
 | [0135-candy](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0179-largest-number) |
+| [2089-maximum-matrix-sum](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2089-maximum-matrix-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3195-separate-black-and-white-balls) |
