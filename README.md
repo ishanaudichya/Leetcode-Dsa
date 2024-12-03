@@ -198,6 +198,7 @@ Github repo for all the leetcode questions that i solved.
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2089-maximum-matrix-sum](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2089-maximum-matrix-sum) |
 | [2155-find-missing-observations](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2155-find-missing-observations) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -252,6 +253,7 @@ Github repo for all the leetcode questions that i solved.
 | [1250-longest-common-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1250-longest-common-subsequence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2580-circular-sentence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2580-circular-sentence) |
 | [3195-separate-black-and-white-balls](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3195-separate-black-and-white-balls) |
 ## Tree
@@ -343,6 +345,7 @@ Github repo for all the leetcode questions that i solved.
 ## Two Pointers
 |  |
 | ------- |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
