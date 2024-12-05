@@ -254,6 +254,7 @@ Github repo for all the leetcode questions that i solved.
 | [1786-count-the-number-of-consistent-strings](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2580-circular-sentence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2580-circular-sentence) |
 | [3195-separate-black-and-white-balls](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3195-separate-black-and-white-balls) |
 ## Tree
@@ -346,6 +347,7 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
