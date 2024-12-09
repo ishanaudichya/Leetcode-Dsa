@@ -205,6 +205,7 @@ Github repo for all the leetcode questions that i solved.
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
+| [3427-special-array-ii](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3427-special-array-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
@@ -273,6 +274,7 @@ Github repo for all the leetcode questions that i solved.
 | [0300-longest-increasing-subsequence](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0300-longest-increasing-subsequence) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3427-special-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -294,6 +296,7 @@ Github repo for all the leetcode questions that i solved.
 | [1435-xor-queries-of-a-subarray](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3427-special-array-ii](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3427-special-array-ii) |
 ## Math
 |  |
 | ------- |
