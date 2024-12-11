@@ -204,6 +204,7 @@ Github repo for all the leetcode questions that i solved.
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3427-special-array-ii](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3427-special-array-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -368,4 +369,8 @@ Github repo for all the leetcode questions that i solved.
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
