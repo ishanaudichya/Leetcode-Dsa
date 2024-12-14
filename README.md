@@ -206,6 +206,7 @@ Github repo for all the leetcode questions that i solved.
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2873-prime-pairs-with-target-sum](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2873-prime-pairs-with-target-sum) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3427-special-array-ii](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3427-special-array-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -305,6 +306,7 @@ Github repo for all the leetcode questions that i solved.
 | ------- |
 | [2155-find-missing-observations](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2645-pass-the-pillow) |
+| [2873-prime-pairs-with-target-sum](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2873-prime-pairs-with-target-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -376,4 +378,9 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2873-prime-pairs-with-target-sum](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2873-prime-pairs-with-target-sum) |
+## Number Theory
+|  |
+| ------- |
+| [2873-prime-pairs-with-target-sum](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/2873-prime-pairs-with-target-sum) |
 <!---LeetCode Topics End-->
