@@ -157,6 +157,7 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0101-symmetric-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -164,6 +165,7 @@ Github repo for all the leetcode questions that i solved.
 | ------- |
 | [0101-symmetric-tree](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0101-symmetric-tree) |
 | [0127-word-ladder](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0127-word-ladder) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/1036-rotting-oranges) |
@@ -267,10 +269,12 @@ Github repo for all the leetcode questions that i solved.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0101-symmetric-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0101-symmetric-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ishanaudichya/Leetcode-Dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Search
 |  |
 | ------- |
